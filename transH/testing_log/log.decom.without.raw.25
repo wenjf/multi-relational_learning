@@ -1,0 +1,9 @@
+.
+make: 'myTransH' is up to date.
+
+dim:25, lambda:0.0015, batchsize:1000, eta:1
+Number of entities: 17637, number of relations: 381, number of training data: 52933
+DIM:	25
+colum:	381
+
+case number:52933, hit@10 55.413447% rank:67.719419 

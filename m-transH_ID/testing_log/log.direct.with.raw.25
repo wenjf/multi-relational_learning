@@ -1,0 +1,11 @@
+.
+make: 'mFold' is up to date.
+
+dim:25, lambda:0.0015, batchsize:1000, eta:1
+real_entity size:	17637
+Number of entities: 38891, number of relations: 181, number of testing data: 22076
+DIM:	25
+colum:	181
+
+case number:68239 hit@10:77.527184% rank:96.057974 
+
